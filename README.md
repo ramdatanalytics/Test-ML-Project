@@ -1,2 +1,2 @@
 # Test-ML-Project
-It is ML Project Test repository
+This is Capstone Project about YouCab predicting about Cab Cancellation. 
